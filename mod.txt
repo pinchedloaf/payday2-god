@@ -1,0 +1,27 @@
+{
+  "name" : "god",
+  "description" : "god",
+  "author" : "pinchedloaf",
+  "contact" : "pinchedloafs@gmail.com",
+  "version" : "0.1",
+  "keybinds" : [
+    {
+        "keybind_id" : "god_on",
+        "name" : "God On",
+        "description" : "Enable",
+        "script_path" : "on.lua",
+        "run_in_menu" : false,
+        "run_in_game" : true,
+        "localized" : false
+    },
+    {
+        "keybind_id" : "god_off",
+        "name" : "God Off",
+        "description" : "Disable",
+        "script_path" : "off.lua",
+        "run_in_menu" : false,
+        "run_in_game" : true,
+        "localized" : false
+    }
+]
+}
