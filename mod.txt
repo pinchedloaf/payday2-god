@@ -3,7 +3,8 @@
   "description" : "god",
   "author" : "pinchedloaf",
   "contact" : "pinchedloafs@gmail.com",
-  "version" : "0.1",
+  "version" : "0.2",
+  "blt_version" : 2,
   "keybinds" : [
     {
         "keybind_id" : "god_on",
